@@ -4,6 +4,8 @@
   
 ###Requirements  
 You will need node package manager installed  
+Also you will need the Titanium CLI module installed:  
+`[sudo] npm install -g titanium`
 
 ###Setup  
 - Copy *package.json* to your app root folder  
