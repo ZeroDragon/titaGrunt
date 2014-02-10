@@ -13,7 +13,7 @@ Also you will need the Titanium CLI module installed:
 
 	`node_modules/*`  
 	
-	To .gitignore
+	To .gitignore (this repo includes a *.gitignore* in case you need it)
 - Install with `npm install` from the command line  
 - To use .coffee files on your controllers, create a new directory: `app/controllers/src/` and place your Coffee Script files there with the same name as it sould. Eg:
 	`app/controllers/src/index.coffee` will compile `app/controllers/index.js`
