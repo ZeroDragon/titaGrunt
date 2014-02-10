@@ -13,7 +13,7 @@ Titanium CLI module:
 `[sudo] npm install -g titanium`
 
 ###Setup  
-- Copy *package.json* to your app root folder  
+- Copy *package.json* and *Gruntfile.coffee* to your app root folder  
 - Add:  
 
 	`node_modules/*`  
