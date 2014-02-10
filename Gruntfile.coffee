@@ -80,10 +80,7 @@ module.exports = (grunt) ->
                         cwd: cwd,
                         src: filename,
                         dest: cwd,
-                        ext: '.js',
-                        ###rename:(dest,matchedSrcPath,options)->
-                            filename = matchedSrcPath
-                            return dest+'/../'+filename###
+                        ext: '.js'
                     }
                 ]
             )
