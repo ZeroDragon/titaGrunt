@@ -3,8 +3,11 @@
 **Titagrunt** is a set of grunt actions to use *coffeescript* in your Titanium + Alloy application.  
   
 ###Requirements  
-You will need node package manager installed  
-Also you will need the Titanium CLI module installed:  
+NPM  
+Grunt module:  
+`[sudo] npm install -g grunt-cli`  
+  
+Titanium CLI module:  
 `[sudo] npm install -g titanium`
 
 ###Setup  
