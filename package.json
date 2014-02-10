@@ -1,0 +1,12 @@
+{
+  "name": "Titanium-Grunt",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-yui-compressor": "",
+    "grunt-contrib-watch": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-clean": "",
+    "grunt-titanium":""
+  }
+}
