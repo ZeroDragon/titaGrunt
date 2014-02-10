@@ -4,6 +4,8 @@
   
 ###Requirements  
 NPM  
+`[sudo] brew install node`  
+  
 Grunt module:  
 `[sudo] npm install -g grunt-cli`  
   
